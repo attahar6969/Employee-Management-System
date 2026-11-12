@@ -1,5 +1,6 @@
 # Attahar EMS
 Link:https://script.google.com/macros/s/AKfycbx9dQjU0DUILB5l-9X44QTtejueBFczCgzSoJPYVXMb0uFMyPI5yYjiXPbEdcQjon_yjQ/exec
+Android version:I have added the EMS.apk file in code.
 
 **Employee Management Portal** built on Google Apps Script and Google Sheets. Employees mark attendance with a selfie and GPS location and manage their leave. Admins approve attendance, handle leave, run payslips and control every company rule from a Settings page, with no code changes.
 
